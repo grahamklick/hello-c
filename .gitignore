@@ -1,0 +1,10 @@
+# Compiled output
+build/
+*.o
+*.out
+
+# macOS files
+.DS_Store
+
+# VS Code local configuration
+.vscode/
