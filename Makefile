@@ -1,7 +1,7 @@
 CC = clang
 CFLAGS = -Wall -Wextra -Wpedantic -std=c17 -g
-TARGET = build/lesson01
-SOURCES = lessons/lesson01.c
+TARGET = build/lesson02
+SOURCES = lessons/lesson02.c
 
 all: $(TARGET)
 
